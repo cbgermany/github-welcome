@@ -5,11 +5,11 @@ on:
     types: [labeled]
 
 env:
-  DOCKER_IMAGE_NAME: cbgermany-azure-ttt
+  DOCKER_IMAGE_NAME: cbgermany-azure-welcome
   IMAGE_REGISTRY_URL: ghcr.io
 
   #################################################
-  AZURE_WEBAPP_NAME: cbgermany-ttt-app
+  AZURE_WEBAPP_NAME: cbgermany-welcome-app
   #################################################
 
 jobs:
